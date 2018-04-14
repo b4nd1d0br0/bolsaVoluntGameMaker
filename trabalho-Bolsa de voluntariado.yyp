@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "7595bc49-2ba7-4fb4-a54f-1ca40cc30067",
+            "Value": {
+                "id": "9ded4a5a-a584-4570-81c0-18d1b3406b34",
+                "resourcePath": "sprites\\Mark\\Mark.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7b8ea438-77d2-450a-a29c-46de64ae6d71",
             "Value": {
                 "id": "faabb014-001f-4e97-8bfc-0e1b86e5eb6c",
